@@ -1,5 +1,4 @@
 import streamlit as st
-from yf_calculator import yf_calculator_ui
 
 st.title("Hi!")
 st.write("I am Yamaan Faraz. Let me give you a little documentation")
